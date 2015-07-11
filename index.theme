@@ -1,0 +1,15 @@
+
+[Desktop Entry]
+Name=ProLook
+Type=X-GNOME-Metatheme
+Comment=
+Encoding=UTF-8
+
+Name[fr_FR]=ProLook
+
+[X-GNOME-Metatheme]
+GtkTheme=Mist
+MetacityTheme=ProLook
+IconTheme=Mist
+CursorTheme=default
+CursorSize=24
