@@ -1,0 +1,2 @@
+# ProLook
+Metacity Theme
